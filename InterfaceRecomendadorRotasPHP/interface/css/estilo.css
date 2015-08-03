@@ -1,0 +1,77 @@
+//Tabela responsive
+
+* { 
+	margin: 0; 
+	padding: 0; 
+}
+body { 
+	font: 14px/1.4 Georgia, Serif; 
+}
+#page-wrap {
+	margin: 50px;
+}
+p {
+	margin: 20px 0; 
+}
+
+	/* 
+	Generic Styling, for Desktops/Laptops 
+	*/
+	table { 
+		width: 100%; 
+		border-collapse: collapse; 
+	}
+	/* Zebra striping */
+	tr:nth-of-type(odd) { 
+		background: #eee; 
+	}
+	th { 
+		background: #333; 
+		color: white; 
+		font-weight: bold; 
+	}
+	td, th { 
+		padding: 6px; 
+		border: 1px solid #ccc; 
+		text-align: left; 
+	}
+        
+        
+//Para mensagens de erro
+#div_mensagens{
+    width: 100%;
+    float: left;
+}
+
+label.error{
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 6px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        text-align: center;
+        font-size: 12px;
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        border-radius: 4px;
+        color: #b94a48;
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        float: left;
+        width: 100%;
+}
+
+input.error {
+border: 1px solid red;
+}
+
+////
+
+//mensagem preloader
+#carregando{
+    width: 100%;
+    float: left;
+    font: 14px/1.4 Georgia, Serif; 
+}
+
+#certificacao{
+    text-align: right;
+}

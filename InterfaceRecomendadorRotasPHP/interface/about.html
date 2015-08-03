@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.css">
+        <link rel="stylesheet" href="css/estilo.css">
+    </head>
+    <body>
+        <div id="page-wrap">
+            
+            
+            <h2>Seja bem vindo ao sistema de recomendação de rotas para deficiente visual.</h2>
+              
+            <p>Antes de iniciar a utilização o sistema, leia com atenção as instruções a seguir para um melhor entendimento.</p>
+                
+              <p>O sistema tem como objetivo, recomendar a melhor rota de ônibus, baseado no nível de acessibilidade de cada estação tubo da cidade de Curitiba, Paraná.
+              O nível de acessibilidade de cada estação tubo varia de 0 à 3, e eles são referentes aos itens de acesso para deficiente visual. 
+              Um exemplo desses itens: calçada regular, piso tátil, sinal sonoro e etc, caso essa estação tubo tenha todos esses itens, então seu nível de acessibilidade será 3, 
+              caso não tenha nenhum item de acessibilidade então o nível de acessibilidade dessa estação tubo será 0.</p>
+            
+            <p>Para utilizar o sistema, é necessário apenas inserir os dados referentes a qual local você está no momento e qual local você deseja chegar. Com esses
+              dados, o recomendador processará uma busca das 3 estações tubos mais próximas do local da onde você está e depois as 3 estações tubos mais próximas do
+              local onde você deseja chegar, e assim, recomendar qual rota é a melhor baseando-se no nível de acessibilidade dessas estações tubos.</p>
+              
+            <p>Para começar a utilizar o sistema, você tem duas opções:
+              Primeira Opção: Clicar no Botão "Meu Local Atual", e assim, o campo "Endereço de Partida" será preenchido automaticamente com o local que você estiver no momento
+              da solicitação, e digitar manualmente o "Endereço de Chegada".
+              Segunda Opção: Digitar manualmente o "Endereço de Partida" e o "Endereço de Chegada". Esssa opção serve para quando você quiser escolher um local de partida
+              diferente do que você está no atual momento.</p>
+              
+              <p>Após os dois campos estiverem preenchidos, basta apenas clicar no botão "Enviar" que o recomendador começará a processar os dados. Abaixo do botão,
+              haverá uma mensagem: "Por favor, aguarde o processamento ...", essa mensagem é mostrada enquanto o recomendador processa os dados e realiza as buscas 
+              na base de dados, isso pode levar alguns segundos.</p>
+              
+               <p>Assim que o recomendador obtiver os dados, os mesmos serão carregados no lugar da mensagem de espera. Os dados estarão dentro de uma tabela,
+              com informações a respeito da recomendação da rota. É importante destacar, que os dados estarão ordenados de acordo com a maior média obtida pelo nível de acessibilidade
+               das estações tubos daquela rota, mas é possível utilizar um filtro que ordena tanto pela maior média, como pela estação tubo mais próxima da onde você está como também
+               da estação tubo mais próxima do local onde você quer chegar.</p>
+              
+               <p>
+                   Esse sistema, foi desenvolvido para um trabalho de conclusão de curso, ou seja, ainda está em fase de testes, podendo assim, haver
+                   alguns problemas. 
+               </p>
+               
+               <p>O aluno Marlon Fernandes Antonio, da Universidade Tecnológica Federal do Paraná - Campus Campo Mourão, agradece pela sua colaboração. Obrigado.</p>
+               
+               <p><a href="index.php">Voltar</a></p>
+              
+        </div>
+    </body>
+</html>
