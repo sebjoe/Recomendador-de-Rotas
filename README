@@ -1,0 +1,13 @@
+Os passos para executar são:
+
+1- Executar os comandos que estão no arquivo SQL. No próprio arquivo estará escrito assim:
+
+--executar estes 4 comandos antes de rodar a persistencia em java
+
+2- Abrir o projeto CriadorDeEstacoes e rodar o arquivo App.java (mas antes,  configurar os dados do banco de dados do postgres (Esse projeto apenas cria no banco os nomes das estações tubos)).
+
+3- Depois voltar ao arquivo SQL e executar os próximos 4 comandos. Esses comandos irão configurar as tabelas com uma coluna com a lat e long usada pelo próprio postgis na hora de calcular a distância de uma estação para outra.
+
+4- Se tudo deu certo, só abrir o projeto RecomendadorRotas, e executar ele como uma aplicação Web, pois ele irá disponibilizar um Webservice pegando os dados do banco. (Esse projeto que faz as comparações das melhores rotas).
+
+5- Por fim, abrir o projeto InterfaceRecomendadorRotasPHP, e executar ele, esse projeto que irá consumir o Webservice e mostrar ao usuário as melhores rotas.

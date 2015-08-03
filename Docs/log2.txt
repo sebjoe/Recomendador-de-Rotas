@@ -1,0 +1,1315 @@
+From Bigorrilho - Rua Marechal José Bernardino Bormann, Curitiba - State of Paraná, Brazil
+To Rua dos Coqueiros - Bairro Alto, Curitiba - State of Paraná, Brazil
+
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : null
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : null
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :43 minutos
+r1_c_s =  7.481000441241804
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :47 minutos
+r2_c_s =  10.9877193980739
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :50 minutos
+r1_c_s =  12.156625717017931
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : null
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : null
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :43 minutos
+r2_c_s =  7.481000441241804
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :50 minutos
+r1_c_s =  12.156625717017931
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : null
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : null
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :43 minutos
+r2_c_s =  7.481000441241804
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :50 minutos
+r1_c_s =  12.156625717017931
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :47 minutos
+r2_c_s =  10.9877193980739
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :46 minutos
+r1_c_s =  11.922844453229125
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :47 minutos
+r2_c_s =  10.9877193980739
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :46 minutos
+r1_c_s =  11.922844453229125
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :50 minutos
+r2_c_s =  12.156625717017931
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : null
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : null
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :42 minutos
+r1_c_s =  8.41612549639703
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :47 minutos
+r2_c_s =  10.9877193980739
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : null
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : null
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :42 minutos
+r1_c_s =  8.41612549639703
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : null
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : null
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :43 minutos
+r2_c_s =  7.481000441241804
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :49 minutos
+r1_c_s =  13.091750772173157
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :47 minutos
+r2_c_s =  10.9877193980739
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :49 minutos
+r1_c_s =  13.091750772173157
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :46 minutos
+r2_c_s =  11.922844453229125
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :49 minutos
+r1_c_s =  13.091750772173157
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :50 minutos
+r2_c_s =  12.156625717017931
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :48 minutos
+r1_c_s =  9.117469287763448
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :47 minutos
+r2_c_s =  10.9877193980739
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :48 minutos
+r1_c_s =  9.117469287763448
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : null
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : null
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :43 minutos
+r2_c_s =  7.481000441241804
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :48 minutos
+r1_c_s =  9.117469287763448
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : null
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : null
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :42 minutos
+r2_c_s =  8.41612549639703
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :44 minutos
+r1_c_s =  11.922844453229125
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :47 minutos
+r2_c_s =  10.9877193980739
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :44 minutos
+r1_c_s =  11.922844453229125
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :50 minutos
+r2_c_s =  12.156625717017931
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :44 minutos
+r1_c_s =  11.922844453229125
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :46 minutos
+r2_c_s =  11.922844453229125
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :51 minutos
+r1_c_s =  10.28637560670748
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bigorrilho
+equationTres => 
+sumR_c_sj :1.4285714285714286 eqUm 1.6666666666666667 simi :0.8571428571428571
+sumR_c_sj :3.2470538472046986 eqUm 1.6666666666666667 simi :1.091089451179962
+sumR_c_sj :4.675625275776127 eqUm 1.6666666666666667 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bigorrilho est :4.675625275776127
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :47 minutos
+r2_c_s =  10.9877193980739
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :51 minutos
+r1_c_s =  10.28637560670748
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Bruno Filgueira
+equationTres => 
+sumR_c_sj :1.7142857142857142 eqUm 2.0 simi :0.8571428571428571
+sumR_c_sj :3.8964646166456385 eqUm 2.0 simi :1.091089451179962
+sumR_c_sj :5.610750330931353 eqUm 2.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Bruno Filgueira est :5.610750330931353
+nome Arr : null
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : null
+nome Arr : Estação tubo Detran
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Detran est :2.8053751654656764
+Temps :42 minutos
+r2_c_s =  8.41612549639703
+
+ROUTE 1 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+1
+nome Dep : Estação tubo Praça Eufrásio Correia
+equationTres => 
+sumR_c_sj :1.1428571428571428 eqUm 1.3333333333333333 simi :0.8571428571428571
+sumR_c_sj :2.5976430777637587 eqUm 1.3333333333333333 simi :1.091089451179962
+sumR_c_sj :3.7405002206209015 eqUm 1.3333333333333333 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Praça Eufrásio Correia est :3.7405002206209015
+nome Arr : Estação tubo Fernando de Noronha
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Fernando de Noronha est :0.0
+2
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+Temps :51 minutos
+r1_c_s =  10.28637560670748
+
+ROUTE 2 :  
+Taille liste de bus stop : 3
+0
+nome Dep : Estação tubo Gastão Câmara
+equationTres => 
+sumR_c_sj :0.8571428571428571 eqUm 1.0 simi :0.8571428571428571
+sumR_c_sj :1.9482323083228192 eqUm 1.0 simi :1.091089451179962
+sumR_c_sj :2.8053751654656764 eqUm 1.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Gastão Câmara est :2.8053751654656764
+nome Arr : Estação tubo Brigadeiro Franco
+equationTres => 
+sumR_c_sj :1.9285714285714284 eqUm 2.25 simi :0.8571428571428571
+sumR_c_sj :4.383522693726343 eqUm 2.25 simi :1.091089451179962
+sumR_c_sj :6.312094122297772 eqUm 2.25 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo Brigadeiro Franco est :6.312094122297772
+1
+nome Dep : Sem Informação
+nome Arr : Sem Informação
+2
+nome Dep : Sem Informação
+nome Arr : Estação tubo China
+equationTres => 
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+sumR_c_sj :0.0 eqUm 0.0 simi :1.091089451179962
+sumR_c_sj :0.0 eqUm 0.0 simi :0.8571428571428571
+Eq3 pour stop :Estação tubo China est :0.0
+Temps :48 minutos
+r2_c_s =  9.117469287763448
+
+
+
+ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+
+ENDEREÇO: Rua dos Coqueiros - Bairro Alto, Curitiba - State of Paraná, Brazil
+Lat/Long: -25.4038319,-49.2129229
+Estação próxima: Estação tubo Bigorrilho
+Estação próxima: Estação tubo Bruno Filgueira
+Estação próxima: Estação tubo Gastão Câmara
+Estação próxima: Estação tubo China
+Estação próxima: Estação tubo Detran
+Estação próxima: Estação tubo Fernando de Noronha
+TRY Nivel 1.0 Num Est 3.0
+
+ Nome  === Estação tubo Bigorrilho
+TRY Nivel 2.0 Num Est 4.0
+
+ Nome  === Estação tubo Brigadeiro Franco
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+DEU ERRO NO 3 TRY
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+TRY Nivel 3.0 Num Est 5.0
+
+ Nome  === Estação tubo China
+TRY Nivel 0.0 Num Est 3.0
+
+ Nome  === Estação tubo Bigorrilho
+TRY Nivel 0.0 Num Est 4.0
+
+ Nome  === null
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+DEU ERRO NO 3 TRY
+TRY Nivel 0.0 Num Est 5.0
+
+ Nome  === null
+TRY Nivel 0.0 Num Est 6.0
+
+ Nome  === Estação tubo Detran
+TRY Nivel 2.0 Num Est 3.0
+
+ Nome  === Estação tubo Bigorrilho
+TRY Nivel 5.0 Num Est 4.0
+
+ Nome  === Estação tubo Praça Eufrásio Correia
+TRY Nivel 8.0 Num Est 5.0
+
+ Nome  === Estação tubo Praça Eufrásio Correia
+TRY Nivel 10.0 Num Est 6.0
+
+ Nome  === Estação tubo Fernando de Noronha
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+DEU ERRO NO 3 TRY
+TRY Nivel 3.0 Num Est 3.0
+
+ Nome  === Estação tubo Bruno Filgueira
+TRY Nivel 4.0 Num Est 4.0
+
+ Nome  === Estação tubo Brigadeiro Franco
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+DEU ERRO NO 3 TRY
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+TRY Nivel 5.0 Num Est 5.0
+
+ Nome  === Estação tubo China
+TRY Nivel 2.0 Num Est 3.0
+
+ Nome  === Estação tubo Bruno Filgueira
+TRY Nivel 2.0 Num Est 4.0
+
+ Nome  === null
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+DEU ERRO NO 3 TRY
+TRY Nivel 2.0 Num Est 5.0
+
+ Nome  === null
+TRY Nivel 2.0 Num Est 6.0
+
+ Nome  === Estação tubo Detran
+TRY Nivel 4.0 Num Est 3.0
+
+ Nome  === Estação tubo Bruno Filgueira
+TRY Nivel 7.0 Num Est 4.0
+
+ Nome  === Estação tubo Praça Eufrásio Correia
+TRY Nivel 10.0 Num Est 5.0
+
+ Nome  === Estação tubo Praça Eufrásio Correia
+TRY Nivel 12.0 Num Est 6.0
+
+ Nome  === Estação tubo Fernando de Noronha
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+DEU ERRO NO 3 TRY
+TRY Nivel 5.0 Num Est 3.0
+
+ Nome  === Estação tubo Gastão Câmara
+TRY Nivel 6.0 Num Est 4.0
+
+ Nome  === Estação tubo Brigadeiro Franco
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+DEU ERRO NO 3 TRY
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+TRY Nivel 7.0 Num Est 5.0
+
+ Nome  === Estação tubo China
+TRY Nivel 4.0 Num Est 3.0
+
+ Nome  === Estação tubo Gastão Câmara
+TRY Nivel 5.0 Num Est 4.0
+
+ Nome  === Estação tubo Brigadeiro Franco
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+DEU ERRO NO 3 TRY
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+TRY Nivel 5.0 Num Est 5.0
+
+ Nome  === Estação tubo Detran
+TRY Nivel 6.0 Num Est 3.0
+
+ Nome  === Estação tubo Gastão Câmara
+TRY Nivel 9.0 Num Est 4.0
+
+ Nome  === Estação tubo Praça Eufrásio Correia
+TRY Nivel 12.0 Num Est 5.0
+
+ Nome  === Estação tubo Praça Eufrásio Correia
+TRY Nivel 14.0 Num Est 6.0
+
+ Nome  === Estação tubo Fernando de Noronha
+DEU ERRO NO 1 TRY :java.lang.NullPointerException
+DEU ERRO NO 3 TRY
+
+
+
+
+
